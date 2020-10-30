@@ -1,0 +1,42 @@
+{
+  "name": "ico-tools",
+  "version": "1.0.0",
+  "description": "Tools for building and validating ICO files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint *.js lib/*.js cli/*.js"
+  },
+  "keywords": [
+    "ico",
+    "icon",
+    "favicon"
+  ],
+  "author": {
+    "name": "Jarrod Connolly",
+    "email": "jarrod@nestedquotes.ca"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "/lib",
+    "/cli"
+  ],
+  "bin": {
+    "ico-tools": "./cli/index.js"
+  },
+  "devDependencies": {
+    "@types/commander": "2.12.2",
+    "@types/eslint": "7.2.4",
+    "@types/jest": "26.0.15",
+    "@types/sharp": "0.26.0",
+    "eslint": "7.12.1",
+    "eslint-config-airbnb-base": "14.2.0",
+    "eslint-plugin-import": "2.22.1",
+    "jest": "26.6.1"
+  },
+  "dependencies": {
+    "commander": "6.2.0",
+    "sharp": "0.26.2"
+  }
+}
