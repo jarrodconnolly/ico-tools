@@ -1,7 +1,17 @@
-![Node.js CI](https://github.com/jarrodconnolly/ico-tools/workflows/Node.js%20CI/badge.svg)
-![CodeQL](https://github.com/jarrodconnolly/ico-tools/workflows/CodeQL/badge.svg)
-# ico-tools [WIP]
-Tools for building and validating ICO files.
+<p align="center"><h1 align="center">
+  ico-tools 🖼 [WIP]
+</h1>
+
+<p align="center">
+  Tools for building and validating ICO files
+</p>
+
+<p align="center">
+  <img src="https://github.com/jarrodconnolly/ico-tools/workflows/Node.js%20CI/badge.svg" alt="CI Status"/>
+  <img src="https://github.com/jarrodconnolly/ico-tools/workflows/CodeQL/badge.svg" alt="CodeQL Status"/>
+  <img src="https://badgen.net/github/license/jarrodconnolly/ico-tools" alt="MIT License" />
+  <img src="https://badgen.net/npm/v/ico-tools" alt="NPM Version" />
+</p>
 
 ## TODO
 * Describe supported input formats
