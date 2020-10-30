@@ -31,7 +31,7 @@ async function runBuild(input, output, cmd) {
 async function runParse(input) {
   try {
     const inputFileData = await fs.readFile(input);
-    const data = await parse(inputFileData);
+    const data = parse(inputFileData);
     console.log(JSON.stringify(data, null, 2));
   } catch (e) {
     if (e.code === 'ENOENT') {
