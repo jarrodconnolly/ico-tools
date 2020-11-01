@@ -1,6 +1,6 @@
 {
   "name": "ico-tools",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Tools for building and validating ICO files.",
   "main": "index.js",
   "scripts": {
