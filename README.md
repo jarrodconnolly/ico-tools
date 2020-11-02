@@ -11,6 +11,7 @@
   <img src="https://github.com/jarrodconnolly/ico-tools/workflows/CodeQL/badge.svg" alt="CodeQL Status"/>
   <img src="https://badgen.net/github/license/jarrodconnolly/ico-tools" alt="MIT License" />
   <img src="https://badgen.net/npm/v/ico-tools" alt="NPM Version" />
+  <img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg" alt="Conventional Commits" />
 </p>
 
 ## TODO
