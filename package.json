@@ -50,6 +50,6 @@
   },
   "dependencies": {
     "commander": "6.2.0",
-    "sharp": "0.26.2"
+    "sharp": "0.30.0"
   }
 }
